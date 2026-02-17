@@ -132,7 +132,7 @@ This project is licensed for educational and research purposes.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Mariem Maher - Initial work
 
 ## 🙏 Acknowledgments
 
